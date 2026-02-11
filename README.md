@@ -1,1 +1,1 @@
-# Lab-2-ARTI-308
+# Lab-2-ARTI308
